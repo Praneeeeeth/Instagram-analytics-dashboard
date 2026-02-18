@@ -33,7 +33,7 @@ This project focuses on analyzing Instagram performance data to understand engag
 ## 📁 Files in Repository
 
 - `Instagram Power BI Project.pbix` – Power BI dashboard file  
-- `screenshots/` – Dashboard screenshots (optional)
+- `screenshots/` – Dashboard screenshots
 
 ---
 
