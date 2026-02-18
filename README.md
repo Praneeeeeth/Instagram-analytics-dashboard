@@ -1,28 +1,55 @@
-# Instagram Analytics Dashboard
+# Instagram Analytics Dashboard (Power BI)
 
-An interactive Power BI dashboard for analyzing Instagram analytics and performance insights using a sample dataset.
+This project presents an interactive Power BI dashboard built to analyze Instagram post performance, user engagement, audience growth, and geographic distribution using a sample Instagram analytics dataset.
 
----
-
-## 📊 Project Overview
-
-This project focuses on analyzing Instagram performance data to understand engagement patterns, content effectiveness, audience growth, and geographic distribution. The dashboard transforms raw social media data into meaningful insights through interactive visualizations.
+The dashboard converts raw social media data into meaningful visual insights to support data-driven decision making.
 
 ---
 
-## 🚀 Features
+## 📌 Project Objectives
 
-- Overall engagement KPIs (Total Likes, Total Comments, Total Shares, Total Engagement)  
-- Content performance analysis by media type and category  
-- Audience growth and trend analysis  
-- Reach vs Impressions comparison  
-- Geographic engagement analysis using map visualization  
-- Post-level detailed drilldown analysis  
-- Interactive slicers and bookmarks  
+- Analyze overall Instagram engagement performance  
+- Study content performance based on media type (Image, Reel, Carousel)  
+- Track audience growth trends over time  
+- Compare reach and impressions  
+- Perform country-wise engagement analysis  
+- Enable post-level drilldown analysis  
 
 ---
 
-## 🛠 Tools & Technologies
+## 📊 Dashboard Pages
+
+1. **Overview**  
+   - Total Likes, Comments, Shares, Total Engagement  
+   - Monthly engagement trend  
+   - Post distribution by media type  
+   - Engagement by traffic source  
+
+2. **Content Performance Analysis**  
+   - Engagement by media type  
+   - Engagement by content category  
+   - Saves by media type  
+   - Top performing posts  
+
+3. **Audience & Growth Trends**  
+   - Followers gained by month  
+   - Reach vs impressions trend  
+   - Engagement by day of week  
+   - Engagement by posting hour  
+
+4. **Geographic Analysis**  
+   - Map showing country-wise engagement  
+   - Engagement by country  
+   - Post count by country  
+
+5. **Detailed Drilldown**  
+   - Post-level engagement details  
+   - KPI cards for selected post  
+   - Engagement composition (likes, comments, shares)  
+
+---
+
+## ⚙️ Tools & Technologies
 
 - Microsoft Power BI  
 - DAX (Data Analysis Expressions)  
@@ -30,16 +57,19 @@ This project focuses on analyzing Instagram performance data to understand engag
 
 ---
 
-## 📁 Files in Repository
+## 📁 Files
 
-- `Instagram Power BI Project.pbix` – Power BI dashboard file  
-- `screenshots/` – Dashboard screenshots
+- `Instagram-analysis.pbix` – Power BI dashboard file  
+- `screenshots/` – Dashboard screenshots (optional)- `Instagram Power BI Project.pbix` – Power BI dashboard file  
 
 ---
 
-## 🎯 Use Case
+## ▶️ How to Use
 
-This dashboard can help content creators, marketers, and analysts identify high-performing content, understand audience behavior, and optimize Instagram strategies using data-driven insights.
+1. Download the `.pbix` file  
+2. Open with Microsoft Power BI Desktop  
+3. Navigate pages using buttons or page tabs  
+4. Use slicers, filters, and bookmarks for interaction  
 
 ---
 
@@ -47,14 +77,6 @@ This dashboard can help content creators, marketers, and analysts identify high-
 
 **Praneeth N R**  
 M.Sc Data Science Student  
-
----
-
-## 📌 How to Use
-
-1. Download the `.pbix` file from this repository  
-2. Open it using Microsoft Power BI Desktop  
-3. Explore the dashboard using filters, slicers, and bookmarks  
 
 ---
 
